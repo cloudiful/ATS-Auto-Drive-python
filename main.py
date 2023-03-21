@@ -4,7 +4,6 @@ import numpy as np
 import win32con
 import win32gui
 import win32ui
-import paddle
 from ultralytics import YOLO
 
 
