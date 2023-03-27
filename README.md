@@ -3,13 +3,10 @@
 Install:
 
 1. Install PyTorch.
-Go https://pytorch.org/get-started/locally/ to copy the command
-  
-For example, I'm using Windows and Nvidia GPU, so I use this command:
+Go https://pytorch.org/get-started/locally/ to copy the command. For example, I'm using Windows and Nvidia GPU, so I use this command:
 ```bash
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
-  
 
 2. Intall ultralytics (YOLOv8).
 Go https://github.com/ultralytics/ultralytics or use this command
