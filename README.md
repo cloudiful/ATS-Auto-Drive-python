@@ -3,7 +3,7 @@
 Install:
 
 1. Install PyTorch.
-  Go https://pytorch.org/get-started/locally/ to install
+  Go https://pytorch.org/get-started/locally/ to copy the command
   
   For example, I'm using Windows and Nvidia GPU, so I use this command:
   ```bash
@@ -12,7 +12,7 @@ Install:
   
 
 2. Intall ultralytics (YOLOv8).
-  Go https://github.com/ultralytics/ultralytics or use co
+  Go https://github.com/ultralytics/ultralytics or use this command
   ```bash
   pip install ultralytics
   ```
