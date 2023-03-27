@@ -7,9 +7,9 @@ Install:
 
 2. Intall ultralytics (YOLOv8).
   Go https://github.com/ultralytics/ultralytics 
-  '''bash
+  ```bash
   or pip install ultralytics
-  '''
+  ```
 3. 
 
 For me, I'm using
