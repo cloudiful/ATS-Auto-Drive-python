@@ -6,7 +6,10 @@ Install:
   Go https://pytorch.org/get-started/locally/ to install
 
 2. Intall ultralytics (YOLOv8).
-  Go https://github.com/ultralytics/ultralytics or pip install ultralytics
+  Go https://github.com/ultralytics/ultralytics 
+  '''bash
+  or pip install ultralytics
+  '''
 3. 
 
 For me, I'm using
