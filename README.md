@@ -4,7 +4,11 @@ Install:
 
 1. Install PyTorch.
   Go https://pytorch.org/get-started/locally/ to install
-  
+
+2. Intall ultralytics (YOLOv8).
+  Go https://github.com/ultralytics/ultralytics or pip install ultralytics
+3. 
+
 For me, I'm using
   pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
