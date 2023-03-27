@@ -16,7 +16,10 @@ Install:
   ```bash
   pip install ultralytics
   ```
-3. 
+3. Install pywin32.
+```bash
+pip install pywin32
+```
 
 Please open American Truck Simulator first and then start the program
 
